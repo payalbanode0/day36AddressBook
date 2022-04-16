@@ -1,0 +1,32 @@
+{
+"AdressBook":[
+{
+	"FirstName":"Payal",
+	"LastName":"Banode",
+	"Address":"25-4-710",
+	"City":"Nagpur",
+	"State":"Maharashtra",
+	"PhoneNumber":"8793819197",
+	"Email":"payalbanode0@gmail.com"
+},
+{
+
+	"FirstName":"Manu",
+	"LastName" :"samore",
+	"Address":"26-8-10",
+	"City":"Tokeo",
+	"State":"Tokeo",
+	"PhoneNumber":"8978977310",
+	"Email":"manusakore@gmail.com"
+},
+{
+	"FirstName":"Laxmi",
+	"LastName":"Thipa",
+	"Address":"25-4-710",
+	"City":"satara",
+	"State":"Maharashtra",
+	"PhoneNumber":"8008144657",
+	"Email" :"laxmiThipa@gmail.com"
+}
+]
+}
